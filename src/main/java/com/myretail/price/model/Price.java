@@ -27,7 +27,7 @@ public class Price {
     }
     @Override
     public String toString() {
-        return "CurrentPriceVO [value=" + value + ", currencyCode=" + currencyCode + "]";
+        return "Price [value=" + value + ", currencyCode=" + currencyCode + "]";
     }
 
 }
