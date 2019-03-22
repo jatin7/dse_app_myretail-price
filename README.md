@@ -2,7 +2,7 @@
 retail price service to pull data from cassandra
 
 #Step1: Create a rest api to accept product id as path variable below.
-http://localhost:8080/product/{id}
+http://localhost:8080/productPrice/{id}
 
 #Step2: Build Cassandra Cluster in the local machine and make the api to read data from Cassandra cluster
 1. Downloaded cassandra using 
