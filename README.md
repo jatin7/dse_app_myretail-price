@@ -1,7 +1,10 @@
 # myretail-price
 retail price service to pull data from cassandra
 
-#Build Cassandra Cluster in the local machine
+#Step1: Create a rest api to accept product id as path variable below.
+http://localhost:8080/product/{id}
+
+#Step2: Build Cassandra Cluster in the local machine and make the api to read data from Cassandra cluster
 1. Downloaded cassandra using 
 $ wget --user sssss_gmail.com --password ******* -L https://downloads.datastax.com/enterprise/dse.tar.gz
 
