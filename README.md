@@ -3,7 +3,7 @@ retail price service to pull data from cassandra
 
 #Build Cassandra Cluster in the local machine
 1. Downloaded cassandra using 
-LM00089:~ vgupta$ wget --user yvgupta4_gmail.com --password dY03BjPvMlgPBBo -L https://downloads.datastax.com/enterprise/dse.tar.gz
+$ wget --user sssss_gmail.com --password ******* -L https://downloads.datastax.com/enterprise/dse.tar.gz
 
 2. Downloaded file "dense-install.sh" from 
 https://www.datastax.com/dev/blog/running-multiple-datastax-enterprise-nodes-in-a-single-host
